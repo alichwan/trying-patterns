@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    background-color: blue;
+}
+
+u {
+    text-decoration-color: yellow;
+    text-decoration-style: dotted;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: rgb(0, 112, 217);
+}
+
+p {
+    margin: 20px auto 10px 0;
+}
+
+.wrapper {
+    margin: 0 10%;
+}
+
+.image-container {
+    display: flex;
+}
+
+.to-flex {
+    flex: 4;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+footer {
+    display: flexbox;
+    text-align: center;
+}
