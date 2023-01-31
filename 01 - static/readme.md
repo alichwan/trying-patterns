@@ -1,3 +1,3 @@
 # Static page
 
-In this section will at least 2 proojects. The first using brute force approach, where it just be a page and maybe style. The second one using more sophisticated stuff, as the frameworks mentioned in previous readme: Hugo, jekyll and/or 11ty
+In this section I had the intention to create at least 2 projects. One using just html/css and the other using some framework. But I decided to omit the second one because it's harder than expected for something that I'm not really into. 
