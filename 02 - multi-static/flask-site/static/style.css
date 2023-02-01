@@ -1,0 +1,14 @@
+.container-fluid {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(188, 188, 255);
+}
+
+.cat-image{
+    width: 400px;
+    height: 400px;
+    border-radius: 5%;
+}

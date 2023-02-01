@@ -27,8 +27,8 @@ Another pattern where many routes are used for distinct parts of the page. Can u
 
 Some util frameworks:
 
+- Flask
 - Ruby on rails
-- Django
 - Laravel
 
 
